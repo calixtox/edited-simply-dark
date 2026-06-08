@@ -1,5 +1,5 @@
 @import "../colors.css";
-@import "./reservedWebkitColors.css";
+@import url(webkit/reservedWebkitColors.css);
 
 * {
     box-shadow: none !important;
