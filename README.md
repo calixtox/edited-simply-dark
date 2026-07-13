@@ -1,24 +1,27 @@
 <div align="center">
    
-# Simply, Dark.
+# Edited Simply, Dark.
 A break from Steam's new eye-straining theme.
 
-If you enjoy this theme, please consider starring the project ⭐
+If you enjoy this theme, please consider starring this fork and the original project ⭐
 
-![Steam Skin](https://i.imgur.com/uXtPTnr.png)
+![Steam Skin](https://i.imgur.com/sN5deHF.png)
 
 </div>
 
-
-## Installation
-1. Download and install [Millennium](https://steambrew.app/).
-1. Click the `Install` button on this theme page.
-1. Open Steam and navigate to `Steam -> Millennium`
-1. Select `Simple Dark.` on the `Client Theme`.
+## Notes
+This is a project that I originally started for myself as some QuickCSS fixes to the original theme that ended up way bigger than what I expected, to make it simpler for me and a couple of my friends who enjoyed the fixes, I have decided to put it on GitHub.
+I've never done anything like this before, so don't expect it to be exactly perfect.
 
 ## Issues
 If any bugs present themselves that inherently affect your Steam experience, you can fix them, create a pull request and become a contributor/developer. 
-You can also create an issue and might be fixed for you. 
+You can also create an issue and might be fixed for you.  
+
+## Installation
+1. Download and install [Millennium](https://steambrew.app/).
+1. Click the ![`Release`]() button on this page and download the zip.
+1. Open Steam and navigate to `Steam -> Millennium -> Themes`
+1. Press `Browse local files` and extract the theme's zip file inside.
 
 ## Customization
 Simply dark allows you to customize some parts of the Steam client component. For now, there are 7 customization options available.
@@ -36,9 +39,13 @@ The theme itself does not require anything being built, but to edit the theme yo
 This allows you to open the inspector on the Steam window, which allows you to edit CSS classes that you will forward to the theme.
 
 ## Contributors
-Special Thanks to:
+Fork Maintainer:
+- [calixto](https://github.com/calixtox)
+
+Special Thanks to Original Contributors:
 - [shdwmtr](https://github.com/shdwmtr), [clawdius](https://github.com/clawdius),  (developer)
 - [MapleAtMorning](https://github.com/MapleAtMorning) (maintaining).
 - [Preshyon](https://github.com/madmaxgrey) (bug fixing).
+
    
 Contributing is encouraged. Anyone can create a pull request if it's deemed useful.
