@@ -21,9 +21,9 @@ You can also create an issue and might be fixed for you.
 
 ## Installation
 1. Download and install [Millennium](https://steambrew.app/).
-1. Click the [`Release`]() button on this page and download the zip.
+1. Click the [`Release`](https://github.com/calixtox/edited-simply-dark/releases/) button on this page and download the zip.
 1. Open Steam and navigate to `Steam -> Millennium -> Themes`
-1. Press `Browse local files` and extract the theme's zip file inside.
+1. Press `Browse local files` and extract the theme's zip file.
 
 ## Customization
 Simply dark allows you to customize some parts of the Steam client component. For now, there are 7 customization options available.
