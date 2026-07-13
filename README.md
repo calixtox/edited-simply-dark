@@ -10,8 +10,10 @@ If you enjoy this theme, please consider starring this fork and the original pro
 </div>
 
 ## Notes
-This is a project that I originally started for myself as some QuickCSS fixes to the original theme that ended up way bigger than what I expected, to make it simpler for me and a couple of my friends who enjoyed the fixes, I have decided to put it on GitHub.
+This is a project that I originally started for myself as some QuickCSS fixes to the original theme that ended up way bigger than what I expected. 
+To make it simpler for me and a couple of my friends who enjoyed the fixes, I have decided to put them on GitHub.
 I've never done anything like this before, so don't expect it to be exactly perfect.
+Here's some more [previews from this fork](https://imgur.com/a/34ihjtL).
 
 ## Issues
 If any bugs present themselves that inherently affect your Steam experience, you can fix them, create a pull request and become a contributor/developer. 
@@ -19,7 +21,7 @@ You can also create an issue and might be fixed for you.
 
 ## Installation
 1. Download and install [Millennium](https://steambrew.app/).
-1. Click the ![`Release`]() button on this page and download the zip.
+1. Click the [`Release`]() button on this page and download the zip.
 1. Open Steam and navigate to `Steam -> Millennium -> Themes`
 1. Press `Browse local files` and extract the theme's zip file inside.
 
@@ -40,7 +42,7 @@ This allows you to open the inspector on the Steam window, which allows you to e
 
 ## Contributors
 Fork Maintainer:
-- [calixto](https://github.com/calixtox)
+- [calixto](https://github.com/calixtox) (developer).
 
 Special Thanks to Original Contributors:
 - [shdwmtr](https://github.com/shdwmtr), [clawdius](https://github.com/clawdius),  (developer)
