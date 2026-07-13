@@ -13,6 +13,7 @@ If you enjoy this theme, please consider starring this fork and the original pro
 This is a project that I originally started for myself as some QuickCSS fixes to the original theme that ended up way bigger than what I expected. 
 To make it simpler for me and a couple of my friends who enjoyed the fixes, I have decided to put them on GitHub.
 I've never done anything like this before, so don't expect it to be exactly perfect.
+
 Here's some more [previews from this fork](https://imgur.com/a/34ihjtL).
 
 ## Issues
