@@ -1,5 +1,8 @@
 @import url(../../titlebar.css);
 
+.chatWindow .chatEntry.compactView>.compactableHeight {
+    height: 44px !important;
+}
 .chatWindow .chatHeader {
     min-height: 0px !important;
 }

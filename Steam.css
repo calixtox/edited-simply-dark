@@ -8,7 +8,7 @@
 @import url(steam/Properties.css);
 @import url(steam/TopBar.css);
 @import url(TitleBar.css);
-@import url(webkit/reservedWebkitColors.css);
+@import './reservedWebkitColors.css';
 
 ::-webkit-scrollbar{
     background-color: transparent !important;
@@ -286,12 +286,16 @@ img._24_AuLm54JVe1Zc0AApCDR._3d_bT685lnWotXxgzKW6am.yDr03475kalWBTwAE-Rnw {
     color: var(--white) !important;
 }
 
-._3cI5TXsFX3bvpR-7EBOtxq > ._2AzIX5kl9k6JnxLfR5H4kX._2q-gZ3XJzlvSGHSF-GvSmi {
-    background: linear-gradient(to right, var(--brightblue) 0%, var(--brightblue) 60%) !important;
+._3cI5TXsFX3bvpR-7EBOtxq>._2AzIX5kl9k6JnxLfR5H4kX._2q-gZ3XJzlvSGHSF-GvSmi {
+  background: linear-gradient(to right, rgb(25, 177, 78) 0%, rgb(25, 177, 78) 60%) !important;
+  background-position: 25% !important;
+  background-size: 330% 100% !important;
 }
 
-._3cI5TXsFX3bvpR-7EBOtxq > ._2AzIX5kl9k6JnxLfR5H4kX {
-    background: linear-gradient(to right, var(--blu) 0%, var(--brightblue) 60%) !important;
+._3cI5TXsFX3bvpR-7EBOtxq>._2AzIX5kl9k6JnxLfR5H4kX {
+  background: linear-gradient(to right, #70d61d 0%, #01a75b 60%) !important;
+  background-position: 25% !important;
+  background-size: 330% 100% !important;
 }
 
 ._3cI5TXsFX3bvpR-7EBOtxq > ._2AzIX5kl9k6JnxLfR5H4kX svg {
@@ -828,3 +832,58 @@ EG: "Play next" category names & "Sort by" dropdown */
 ._3B8wRA4H7e_oSksYNqpSPv._1B1XTNsfuwOaDPAkkr8M42, ._1oERP7bVictkby2hP4BBva {
     background: var(--color-dark) !important
 }
+
+._1_vCR1dPfyJ7_yukwDqblf {
+    background-color: var(--darkgrey) !important;
+    box-shadow: none !important;
+}
+
+#_1_vCR1dPfyJ7_yukwDqblf, ._1t_97P9KMsEBaPq9y-6OUl {
+    background-color: var(--darkgrey) !important;
+    box-shadow: none !important;
+}
+
+/* Library Related */
+
+.eKmEXJCm_lgme24Fp_HWt._2CCdODv0vfzOMrEBUzZwfI {
+  background-color: var(--littlegrey) !important;
+}
+
+._1FyBL6obxHQ2Z2CsaV2Gbz .DialogBody .X3pN_ESh0aoxmm2nK65Hu {
+  background: var(--littlegrey) !important;
+}
+
+._1FyBL6obxHQ2Z2CsaV2Gbz .DialogBody ._3jWpi0kJp_piNEvdMufMmy ._1LCoWsUrJmZHr7SVX0luaG._231y-BrqpRH85PNLgfseSR {
+  background-color: var(--darkgrey) !important;
+}
+
+._3cXgxM5dBuTxGOOYw0lxsP {
+	visibility: hidden;
+}
+
+._2SAb6geDpe6toA1GaP0GjH {
+    background-color: transparent !important;
+}
+
+._2SAb6geDpe6toA1GaP0GjH ._2aeAnRfwltWfd9Hb9M_1uE {
+    margin-right: 250px !important;
+}
+
+._2SAb6geDpe6toA1GaP0GjH ._1E6Ivnp3A4apXqQYtlQHEc {
+	flex-shrink: 0 !important;
+	position: absolute !important;
+	box-sizing: border-box !important;
+	right: 35.6% !important;
+}
+
+._1KsYSVzmvIfRivBTcx-_GE {
+    background-color: var(--darkgrey) !important;
+    background-image: radial-gradient(ellipse at top left, #1e1e1f, #1e1e1f) !important;
+}
+
+.mKmrOjr9bGjKAolgp9NoD {
+    background-color: var(--darkgrey) !important;
+    background-image: radial-gradient(ellipse at top center, #32323480 10%, #32323400 80%);
+}
+
+
