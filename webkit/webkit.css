@@ -1186,11 +1186,11 @@ a.home_marketing_message {
 }
 .btn_green_white_innerfade {
     border-radius: var(--border0) !important;
-    background: var(--lightgrey) !important;
+    background: linear-gradient( to bottom, #a4d007 5%, #536904 95%) !important;
 }
 .btn_green_white_innerfade > span {
     border-radius: var(--border0) !important;
-    background: var(--lightgrey) !important;
+    background: linear-gradient( to bottom, #799905 5%, #536904 95%) !important;
     color: var(--darkwhite) !important;
 }
 .btn_green_white_innerfade > span:hover {
@@ -2101,6 +2101,12 @@ div#headerSearch.friend_activity_header_search {
 }
 .profile_small_header_bg {
     background-image: none !important;
+	height: auto;
+	margin: 0px 0px 0px 0px !important;
+	max-width: 1908px !important;
+}
+.shareItemLink .btn_medium > span {
+	padding: 8px 10px 0px 10px !important;
 }
 .btn_grey_black {
     border-radius: var(--border0) !important;
@@ -2800,7 +2806,7 @@ body.v6 .game_area_already_owned.page_content {
     background: var(--grey) !important
 }
 .game_area_purchase_game {
-    background: #2e2e2f99 !important
+    background: var(--bedarkgrey) !important
 }
 .game_area_purchase_game > a {
     border-radius: var(--border0) !important;
@@ -3615,7 +3621,7 @@ body:has([href*="/curator/"]) .curator_header_area_ctn {
 }
 body:has([href*="/guides/"]) .rightbox_list_selection_background {
     left: -16px !important;
-    background: url('https://i.imgur.com/eAjSdwg.png') left / cover !important;
+    background: url('https://community.fastly.steamstatic.com/public/images/rightcol_option_selected.png') left / cover !important;
 	max-width: calc(100% + 16px) !important;
 }
 body:has([href*="/discussions/"]) .rightbox_list_selection_background {
@@ -3648,6 +3654,12 @@ img#blotter_nofriends_block {
     background-image: none !important;
     width: 0 !important;
     height: 0 !important;
+}
+.collectionBackgroundImageEditContents .general_btn {
+	color: black !important;
+}
+.collectionEditCancel .general_btn {
+	color: black !important;
 }
 .responsive_tab_baseline {
     background-color: transparent !important;
@@ -4768,7 +4780,6 @@ body:has([href*="/guides/"]) input.searchText {
     max-height: 219px;
     width: 94%;
     height: 22px;
-    background-color: var(--grey) !important;
     margin-right: -2px
 }
 

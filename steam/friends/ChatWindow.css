@@ -144,3 +144,8 @@ button.VoiceToggle.Inactive.Focusable {
     border: none !important;
     z-index: 1;
 }
+
+.DropTarget.chatWindow.MultiUserChat.namedGroup.compactView.Panel.Focusable {
+  background: var(--thegrey) !important;
+}
+
