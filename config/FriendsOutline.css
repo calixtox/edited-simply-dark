@@ -21,3 +21,8 @@
 .friendlistListContainer .friend .avatarHolder {
     padding-right: 0 !important;
 }
+
+.nibodjvvrm86uCfnnAn4g.avatarHolder.avatarHolder.no-drag.Medium.ingame {
+	border: solid var(--ingame) 2px !important;
+	border-radius: 2px !important;
+}
